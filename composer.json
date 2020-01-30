@@ -1,0 +1,19 @@
+{
+    "name": "evmusonov/laravel-file-helper",
+    "description": "Simple file uploader for documents and images with resize opportunity",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Evgeny Musonov",
+            "email": "evmusonov@gmail.com"
+        }
+    ],
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "Evmusonov\\LaravelFileHelper\\": ""
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
