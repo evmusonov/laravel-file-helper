@@ -11,7 +11,7 @@
     "version": "1.0.0",
     "autoload": {
         "psr-4": {
-            "Evmusonov\\LaravelFileHelper\\": ""
+            "Evmusonov\\LaravelFileHelper\\": "src/"
         }
     },
     "minimum-stability": "dev",
