@@ -1,5 +1,6 @@
 <?php
 
 return [
-    'string' => 'something'
+    'documentExtensions' => ['pdf', 'docx', 'xslx'],
+    'imageExtensions'    => ['jpeg', 'png', 'gif']
 ];
