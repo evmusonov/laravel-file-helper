@@ -10,5 +10,5 @@ return [
             'height'  => 200,
             'quality' => 100
         ],
-    ],
+    ]
 ];
