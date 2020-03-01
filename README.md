@@ -6,4 +6,5 @@ Simple file uploader for documents and images with resize opportunity
 > composer require evmusonov/laravel-file-helper
 2. Add provider into your config/app.php
 > Evmusonov\LaravelFileHelper\FileHelperServiceProvider::class
-3. Usage example
+3. Do this command to publish the config file
+> php artisan vendor:publish
