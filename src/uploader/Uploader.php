@@ -1,9 +1,7 @@
 <?php
-namespace App\Components;
 
-use App\Exceptions\FileNotFoundUploadException;
-use App\Exceptions\UploadedFileDoesNotExistException;
-use App\File;
+namespace Evmusonov\LaravelFileHelper;
+
 use Illuminate\Support\Facades\Storage;
 
 abstract class Uploader

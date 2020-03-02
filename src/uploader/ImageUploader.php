@@ -1,11 +1,7 @@
 <?php
-namespace App\Components;
 
-use App\Exceptions\WrongSizesUploadException;
-use App\Exceptions\ResizeDirNotFoundUploadException;
-use App\File;
-use Illuminate\Support\Facades\Log;
-use Illuminate\Support\Facades\Storage;
+namespace Evmusonov\LaravelFileHelper;
+
 use Exception;
 
 class ImageUploader extends Uploader
